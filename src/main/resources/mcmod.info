@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mobsunscreen",
+  "name": "mobsunscreen",
+  "description": "Prevent hostile mobs from burning in the sun!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kreezxil"],
+  "credits": "TheAmazingHaru for suggesting it!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
