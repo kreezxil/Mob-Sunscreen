@@ -13,8 +13,6 @@ gradle-app.setting
 
 \.settings/org\.eclipse\.jdt\.core\.prefs
 
-build\.gradle
-
 eclipse/\.metadata/\.plugins/org\.eclipse\.core\.resources/\.projects/MDKExample/\.location
 
 eclipse/\.metadata/\.plugins/org\.eclipse\.core\.resources/\.root/0\.tree
