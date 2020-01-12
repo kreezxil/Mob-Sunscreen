@@ -1,59 +1,25 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
 .gradle
-build/
 
-# Ignore Gradle GUI config
-gradle-app.setting
+# other
+eclipse
+run
 
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-!gradle-wrapper.jar
-
-\.classpath
-
-\.project
-
-\.settings/org\.eclipse\.jdt\.core\.prefs
-
-eclipse/\.metadata/\.plugins/org\.eclipse\.core\.resources/\.projects/MDKExample/\.location
-
-eclipse/\.metadata/\.plugins/org\.eclipse\.core\.resources/\.root/0\.tree
-
-eclipse/\.metadata/\.plugins/org\.eclipse\.core\.runtime/\.settings/org\.eclipse\.core\.resources\.prefs
-
-eclipse/\.metadata/\.plugins/org\.eclipse\.core\.runtime/\.settings/org\.eclipse\.debug\.ui\.prefs
-
-eclipse/\.metadata/\.plugins/org\.eclipse\.core\.runtime/\.settings/org\.eclipse\.epp\.usagedata\.gathering\.prefs
-
-eclipse/\.metadata/\.plugins/org\.eclipse\.core\.runtime/\.settings/org\.eclipse\.jdt\.core\.prefs
-
-eclipse/\.metadata/\.plugins/org\.eclipse\.core\.runtime/\.settings/org\.eclipse\.ui\.editors\.prefs
-
-eclipse/\.metadata/\.plugins/org\.eclipse\.core\.runtime/\.settings/org\.eclipse\.ui\.ide\.prefs
-
-eclipse/\.metadata/\.plugins/org\.eclipse\.core\.runtime/\.settings/org\.eclipse\.ui\.prefs
-
-eclipse/\.metadata/\.plugins/org\.eclipse\.debug\.core/\.launches/Client\.launch
-
-eclipse/\.metadata/\.plugins/org\.eclipse\.debug\.core/\.launches/Server\.launch
-
-eclipse/\.metadata/\.plugins/org\.eclipse\.debug\.ui/launchConfigurationHistory\.xml
-
-gradle\.properties
-
-gradle/wrapper/gradle-wrapper\.jar
-
-gradle/wrapper/gradle-wrapper\.properties
-
-gradlew
-
-gradlew\.bat
-
-Mob Sunscreen_Client\.launch
-
-Mob Sunscreen_Server\.launch
-/bin/
-
-run/
-
-eclipse/\.recommenders/caches/
-
-eclipse/\.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/
+# Files from Forge MDK
+forge*changelog.txt
